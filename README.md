@@ -1,7 +1,3 @@
-# eda-data-science
-
-exploratory-data-analysis
-
 exploratory-data-analysis/
 │
 ├── data/
