@@ -1,1 +1,127 @@
+1️⃣ Statistical & Mathematical Mastery (Core Differentiator)
 
+🔹 Probability & Statistics (Beyond Basics)
+Probability theory & measure intuition
+Random variables & transformations
+Bias–variance tradeoff (deep intuition)
+Sampling theory & resampling methods
+Hypothesis testing (parametric & non-parametric)
+Bayesian statistics (priors, posteriors, conjugacy)
+Maximum Likelihood Estimation (MLE)
+Maximum A Posteriori (MAP)
+Confidence intervals (bootstrap vs analytic)
+Statistical power analysis
+Causal inference fundamentals
+Simpson’s paradox
+Multiple hypothesis testing & corrections
+👉 Advanced DS think statistically first, model second
+
+2️⃣ Machine Learning (Theory + Practice)
+🔹 Classical ML (Must Be Rock Solid)
+Linear & logistic regression (from loss functions)
+Regularization (L1, L2, ElasticNet)
+Decision trees (bias control, pruning)
+Ensemble methods (Bagging, Boosting, Stacking)
+Random Forest internals
+Gradient Boosting (XGBoost, LightGBM, CatBoost)
+Feature engineering as a first-class skill
+🔹 Advanced ML Concepts
+Loss functions & optimization landscapes
+Model calibration & uncertainty estimation
+Hyperparameter optimization (Bayesian search)
+Learning curves & diagnostics
+Imbalanced learning techniques
+Cost-sensitive learning
+Online & incremental learning
+
+3️⃣ Deep Learning & Representation Learning
+🔹 Foundations
+Backpropagation (mathematical intuition)
+Activation functions & their tradeoffs
+Weight initialization & normalization
+Vanishing/exploding gradients
+🔹 Architectures
+CNNs (vision intuition)
+RNNs, LSTM, GRU
+Attention mechanism
+Transformers (encoder/decoder, self-attention)
+Embedding learning
+🔹 Training & Scaling
+Transfer learning & fine-tuning
+Regularization in deep models
+Mixed precision training
+Distributed training concepts
+
+4️⃣ Generative AI & Modern AI (Critical in 2025+)
+Large Language Model (LLM) architecture basics
+Tokenization & embeddings
+Prompt engineering (systematic, not hacks)
+RAG (Retrieval-Augmented Generation)
+Fine-tuning vs adapters (LoRA, PEFT)
+Evaluation of generative models
+Hallucination detection & mitigation
+Responsible & safe AI practices
+👉 Advanced DS know when GenAI helps—and when it doesn’t
+
+5️⃣ Causal Thinking & Experimentation (Huge Differentiator)
+Correlation vs causation
+Randomized controlled experiments
+A/B testing design
+CUPED, variance reduction
+Quasi-experiments
+Difference-in-differences
+Instrumental variables
+Propensity score matching
+Uplift modeling
+Policy evaluation
+👉 Senior DS drive decisions, not just predictions
+
+6️⃣ Data Engineering & Systems Thinking
+🔹 Data at Scale
+Data modeling (OLTP vs OLAP)
+Data quality frameworks
+Slowly Changing Dimensions (SCD)
+Schema evolution
+Partitioning & indexing
+🔹 Big Data Tools
+Spark internals (shuffle, DAG, caching)
+Distributed computing principles
+Streaming vs batch processing
+Feature stores
+Data versioning
+
+7️⃣ MLOps & Production AI
+Model lifecycle management
+Training–serving skew
+Model monitoring & drift detection
+CI/CD for ML
+Experiment tracking
+Feature pipelines
+Model retraining strategies
+Shadow & canary deployments
+Cost optimization of ML systems
+👉 Advanced DS ship models reliably
+
+8️⃣ Domain & Business Intelligence
+Translating business problems → ML problems
+KPI definition & metric alignment
+ROI measurement of models
+Decision thresholds & tradeoffs
+Storytelling with data
+Executive communication
+Ethics & fairness in AI
+
+9️⃣ Advanced Problem-Solving Skills
+Problem decomposition
+Assumption testing
+Model selection rationale
+Failure analysis
+Interpretable vs black-box tradeoffs
+When not to use ML
+
+🔟 Research & Thought Leadership (Expert Level)
+Reading & applying research papers
+Reproducing papers
+Designing novel features & models
+Writing technical design docs
+Mentoring junior data scientists
